@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav iz aplikacije od Marka Dubravca, indeks: 444433332222");
+
         }
     }
 }
